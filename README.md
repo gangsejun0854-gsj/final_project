@@ -11,11 +11,11 @@ Won Banking Mini는 React와 Vite를 사용해 제작한 간단한 인터넷 뱅
 
 ### 메인 화면 & 이체 화면
 
-
+![Won Banking Mini 메인 화면](./screenshots/스크린샷 2026-09-10 170418.png)
 
 ### 계좌 및 거래 내역
 
-
+![계좌 및 거래 내역 화면](./screenshots/transactions.gif)
 
 
 ## 3. 실행 방법
